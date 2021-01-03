@@ -1,0 +1,50 @@
+body{
+
+}
+h1{
+	text-align: center;
+}
+	
+
+h2.Top{
+	color:orange;
+	text-align:left;
+}
+body{
+	background-color:none;
+	font-family:sans-serif;
+	padding:200px;
+}
+p{
+font--family:italic;
+}
+.HELL{
+	float:right;
+	height:160px;
+	border-style:groove;
+	margin-right: 30px;
+	border-color: blue;
+	margin-left:10px;
+	
+
+}
+.don{
+	float:right;
+	border-style:double;
+	height:160px;
+
+}
+div{
+ background-color:white;
+
+}
+#poor{
+	float:right;
+	margin-left:5px;
+}
+.La{
+	font-size:100px;
+}
+#Pellow{
+	width:950px;
+}
